@@ -1,0 +1,10 @@
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\bin\Debug\Invoice_managment.exe.config
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\bin\Debug\Invoice_managment.exe
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\bin\Debug\Invoice_managment.pdb
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.csprojResolveAssemblyReference.cache
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.Properties.Resources.resources
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.csproj.GenerateResource.Cache
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.exe
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.pdb
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.Home.resources
+D:\Projects\Winhe INVOICE MANAGMENT - C#\Project_files\Invoice_managment\Invoice_managment\obj\Debug\Invoice_managment.Products.resources
